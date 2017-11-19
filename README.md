@@ -7,7 +7,8 @@ An enthusiastic and ambitious individual with a passion to outperform in any act
 
 ## Skills
 
-#### Attention to Detail
+#### Time Managemant & Communication
+As an Assistant Regional Youth Leader I lead a team of 50+ people to hold successful events and exhibitions, it has greatly enhanced my leadership and team-working skills. As part of my role I oversee the local activities organised by the local youth leaders, as a result of this I have vastly improved my communication skills.
 
 #### Adaptability
 Adaptability is one of the most important skills that I have learned and improved over the years. It has played a vary cruciul prat in every role that I have worked in, wether it was adapating and customising my approch to every customer whicl working at EE as a sales advisor or dealing with unexpected circumstances whilst organising charity events for AMYA UK.
