@@ -2,7 +2,7 @@
 
 An enthusiastic and ambitious individual with a passion to outperform in any activity. Highly motivation and a determined mind-set which apply in both, social and professional life. My ability to adapt and learn new tasks quickly has enabled me to develop the skills that are crucial within a professional environment.
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
 ## Skills
