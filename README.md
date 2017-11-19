@@ -30,26 +30,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (November 2017 to February 2017)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
+- Fast, independent learner
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Plymouth (October 2013 to July 2016)
 
-- Subject, any specialisms
-- Grade
+- Business Management BSc (Hons)
 - Other cool stuff
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**EE** (February 2017 to October 2017)    
+*Sales Advisor*  
+**TK MAXX** (start_date to end_date)   
+*Sales*  
