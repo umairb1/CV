@@ -11,7 +11,10 @@ An enthusiastic and ambitious individual with a passion to outperform in any act
 As an Assistant Regional Youth Leader I lead a team of 50+ people to hold successful events and exhibitions, it has greatly enhanced my leadership and team-working skills. As part of my role I oversee the local activities organised by the local youth leaders, as a result of this I have vastly improved my communication skills.
 
 #### Adaptability
-Adaptability is one of the most important skills that I have learned and improved over the years. It has played a vary cruciul prat in every role that I have worked in, wether it was adapating and customising my approch to every customer whicl working at EE as a sales advisor or dealing with unexpected circumstances whilst organising charity events for AMYA UK.
+Adaptability is one of the most important skills that I have learned and improved over the years. It has played a vary cruciul prat in every role that I have worked in, wether it was adapating and customising my approch to every customer while working at EE as a sales advisor or dealing with unexpected circumstances whilst organising charity events for AMYA UK.
+
+#### Problem Solving
+As a software developer my day to day job is to find solutions for problems in the shortest time possible. Being able to look at a problem and break it down into steps is crucial. Studying at [Makers Academy](https://github.com/makersacademy/) has greatly improved my problem solving skill, using debuggers and print statements to get visibility of my code and from there form potential solutions for the problem at hand.
 
 
 ### Spoken Languages
@@ -34,19 +37,18 @@ Project | Description | Technologies | Testing
 
 #### Makers Academy (November 2017 to February 2017)
 
-- Curious and passionate about code.
-- Fast, independent learner
-- Great collaborator
-
-- OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
+**Languages**
+- Ruby, Java, JavaScript
+**Libraries**
+- React, Express, JQuery, Rails, Sinatra, 
+**Testing**
+- RSpec, Jasmine, Jest, Mocha, JUnit
 
 #### University of Plymouth (October 2013 to July 2016)
 
 - Business Management BSc (Hons)
-
 
 ## Experience
 
