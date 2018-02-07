@@ -41,8 +41,10 @@ Project | Description | Technologies | Testing
 
 **Languages**
 - Ruby, Java, JavaScript
+
 **Libraries**
-- React, Express, JQuery, Rails, Sinatra, 
+- React, Express, JQuery, Rails, Sinatra
+
 **Testing**
 - RSpec, Jasmine, Jest, Mocha, JUnit
 
