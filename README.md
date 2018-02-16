@@ -55,15 +55,15 @@ Project | Description | Technologies | Testing
 
 ## Experience
 
-**AMYA UK** (Nov 2016 – Present)
-*Regional Assistant Youth Leader - (volunteer)
+**AMYA UK (Nov 2016 – Present)**
+*Regional Assistant Youth Leader - (volunteer)*
 - Communitation
 - Team leading 
 - Time management
 - Attention to detail
 
 
-**EE** (February 2017 to October 2017)    
+**EE (February 2017 to October 2017)**
 *Sales Advisor*
 
 Although only working at EE for a short priod of time, at this role I developed key skills which will help me thorugh out my life. Being able to speak to random people, understand their need, come up with a solution and explan to them the solution in a way which they will understand at them same time adapting my approch to each person.
@@ -74,12 +74,12 @@ Although only working at EE for a short priod of time, at this role I developed 
 - Active Listening
 - Communication
 
-**TK MAXX** (October 2014 to April 2016)   
+**TK MAXX (October 2014 to April 2016)**  
 *Associate*
 
 In this role I was required to perform three main tasks on regular basics; cashier, shop floor maintenance and delivery processing. This role helped be to gain many skills such working under pressure and promoting products as a cashier, paying particular attention to quality and display of products while on shop floor maintenance and delivery processing helped me to work under pressure, improve time management and also improve organisational skills.
 
-**AMYA UK** (July 2015 to April 2016) 
+**AMYA UK (July 2015 to April 2016)** 
 *Local Youth leader - (volunteer)*
 
 In this role I overlook local youths of Southfields encouraging them to take part in local/regional/national activates organised by the Ahmadiyya Muslim Youth Association which has helped me to enhance my leadership skills and team working skills. This role required me to organise monthly general meetings, local sport and academic events which has improved my organisational and time management skills. 
