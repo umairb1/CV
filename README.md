@@ -16,15 +16,6 @@ Adaptability is one of the most important skills that I have learned and improve
 #### Problem Solving
 As a software developer my day to day job is to find solutions for problems in the shortest time possible. Being able to look at a problem and break it down into steps is crucial. Studying at [Makers Academy](https://github.com/makersacademy/) has greatly improved my problem solving skill, debugging to get visibility of my code and from there form potential solutions for the problem at hand.
 
-
-#### Spoken Languages
-
-- English (Fluent)
-- Urdu    (Fluent)
-- Punjabi (Fluent)
-- Hindi   (Fluent)
-
-
 ## Projects
 
 Project | Description | Technologies | Testing
