@@ -14,7 +14,7 @@ As an Assistant Regional Youth Leader I lead a team of 50+ people to hold succes
 Adaptability is one of the most important skills that I have learned and improved over the years. It has played a very crucial part in every role that I have worked in, whether it was adapting and customising my approach to every customer while working at EE as a sales advisor or dealing with unexpected circumstances whilst organising charity events for AMYA UK.
 
 #### Problem Solving
-As a software developer my day to day job is to find solutions for problems in the shortest time possible. Being able to look at a problem and break it down into steps is crucial. Studying at [Makers Academy](https://github.com/makersacademy/) has greatly improved my problem solving skill, using debuggers and print statements to get visibility of my code and from there form potential solutions for the problem at hand.
+As a software developer my day to day job is to find solutions for problems in the shortest time possible. Being able to look at a problem and break it down into steps is crucial. Studying at [Makers Academy](https://github.com/makersacademy/) has greatly improved my problem solving skill, debugging to get visibility of my code and from there form potential solutions for the problem at hand.
 
 
 #### Spoken Languages
