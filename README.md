@@ -20,11 +20,11 @@ As a software developer my day to day job is to find solutions for problems in t
 
 Project | Description | Technologies | Testing
 ------- | ----------- | ------------ | -------
-[Student Directory](https://github.com/umairb1/student-directory) | A Ruby application script that allows you to manage students enrolled at Villains Academy | Ruby, Command Line, Version Control | N/A
-[Fizzbuzz](https://github.com/umairb1/FizzBuzz) | First pair programming and TDD over Fizzbuzz Kata | Ruby, Command Line, Version Control | Rspec
+[Swapaway](https://github.com/Mnargh/Swapaway) | Items trading web page application using the MERN stack | JavaScript, MongoDB, Express, React, Node | Jest, Mocha, Chai
+[Interpreter](https://github.com/GeorgeWhiting/writing-a-programming-language) | A group project from Makers Academy where we built an pascal interpreter in java. We implement variable assignment, function declaration and basic mathematical functionality. We also built a testing framework to test the interpreter. | Java | Custom
 [Instagram Challenge](https://github.com/umairb1/instagram-challenge) | A Ruby on Rails project that allows users to add/view/edit/delete photos | Ruby on Rails, JavaScript | Rspec
 [Guardian News Api](https://github.com/umairb1/news-summary-challenge) | An API project that renders the breaking news from the guardian news website | JavaScript, Node, Express | Rspec, Mocha, Chai
-[Swapaway](https://github.com/Mnargh/Swapaway) | Items trading web page application using the MERN stack | JavaScript, MongoDB, Express, React, Node | Jest, Mocha, Chai
+
 
 ## Education
 
