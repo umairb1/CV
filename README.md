@@ -1,6 +1,6 @@
 ## Umair Bashir
 
-An enthusiastic and ambitious individual with a passion to outperform in any activity. Highly motivation and a determined mind-set which apply in both, social and professional life. My ability to adapt and learn new tasks quickly has enabled me to develop the skills that are crucial within a professional environment.
+A recent Software Engineering graduate from Makers Academy, a coding bootcamp with only 10% acceptance rate. Completing this course has equipped me with the necessary skills and knowledge required for a software developer role. I believe my adaptability and willingness to learn coupled with my excellent interpersonal skills will enable me to thrive at any organisation. I’m looking for a role which will enable me to improve my current skills as well as gain new ones which can help me to further develop my career.
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
