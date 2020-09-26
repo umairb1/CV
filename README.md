@@ -1,7 +1,5 @@
 ## Umair Bashir
 
-A recent Software Engineering graduate from Makers Academy, a coding bootcamp with only 10% acceptance rate. Completing this course has equipped me with the necessary skills and knowledge required for a software developer role. I believe my adaptability and willingness to learn coupled with my excellent interpersonal skills will enable me to thrive at any organisation. I’m looking for a role which will enable me to improve my current skills as well as gain new ones which can help me to further develop my career.
-
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
@@ -40,13 +38,38 @@ Project | Description | Technologies | Testing
 #### University of Plymouth (October 2013 to July 2016)
 
 - Business Management BSc (Hons)
-- Team working
+- Team work
 - Researching 
 
 
 ## Experience
 
-**AMYA UK (Nov 2016 – Present)**
+
+**Santander UK Technology(May 2018 – Present)**
+*Software Engineer - (volunteer)*
+
+- Project lead
+- Time management
+- Communication
+- Problem solving
+>
+- Angular
+- Scss
+- HTML
+- Java (Spring boot)
+- Node.js (Express)
+- Jest
+- Jasmine
+- Protractor
+- Cypress
+
+**AMYA UK (April 2019 - Present)**
+*National Assistant Youth Leader - (volunteer)*
+- Communication
+- Project management 
+- Time management
+
+**AMYA UK (Nov 2016 – April 2019)**
 *Regional Assistant Youth Leader - (volunteer)*
 - Communication
 - Team leading 
